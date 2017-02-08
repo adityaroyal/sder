@@ -1,0 +1,1 @@
+I had initialized repositories because it makes my work esy to track changes I made into the repositories . I can trck te changes by initialising a blank direcory unlike cloning a directory which I sould do from git hub

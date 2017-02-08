@@ -1,0 +1,7 @@
+by having different versions I could spend more of time in coding rather than finding the bug which I made in the updated file. It's a lot handy for programmers
+By having access to savedfiles. I can easily see the different times the file is modified so I can be a better programmer because it is a great learning experience to learn from different forms of your reflections and you can have some proof of improvement in your coding abilities 
+Manually choosing git commit cons-unrelavant because it  depends on your speed to solve a problem not on a fixed time span
+pros-ou can never forget because it is amjor problemfor me
+auto-cons-ou ma forget,pros- it can be more readable
+
+I can use git log to see different files in a repository which are commited
