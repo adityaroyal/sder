@@ -5,4 +5,5 @@ pros-ou can never forget because it is amjor problemfor me
 auto-cons-ou ma forget,pros- it can be more readable
 
 I can use git log to see different files in a repository which are commited
-I wnt to test
+I wnt to testnjksvm
+zvd k
